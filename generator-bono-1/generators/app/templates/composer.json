@@ -1,0 +1,21 @@
+{
+  "name": "<%= package %>",
+  "authors": [
+    {
+      "name": "<%= authorName %>",
+      "email": "<%= authorEmail %>"
+    }
+  ],
+  "license": "<%= license %>",
+  "require": {
+    "xinix-technology/bono": "~1.0.0",
+    "xinix-technology/norm": "~1.0.0",
+    "xinix-technology/bono-auth": "~1.0.0",
+    "reekoheek/norm-fdb": "~0.1.1"
+  },
+  "autoload": {
+    "psr-0": {
+      "App": "src/"
+    }
+  }
+}
