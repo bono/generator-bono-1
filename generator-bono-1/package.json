@@ -1,6 +1,6 @@
 {
   "name": "generator-bono-1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "chalk": "^1.0.0",
     "gulp": "^3.9.1",
